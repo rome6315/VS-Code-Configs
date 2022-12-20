@@ -1,3 +1,6 @@
+//This should be used when compiling multi-file programs. (Programs that contain more than main.cpp)
+
+
 {
     "tasks": [
         {
