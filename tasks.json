@@ -1,4 +1,4 @@
-//This should be used when compiling multi-file programs. (Programs that contain more than main.cpp)
+//This should be used when compiling multi-file programs. (Programs that contain more than main.cpp for example)
 
 
 {
